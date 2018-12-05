@@ -102,7 +102,7 @@ MUSKETlogo = """\033[0m
   M  `YM'   MM   MM    MM  L.   I8  MM `Mb.YM.    ,  MM       MM YA.   ,A9 YA.   ,A9 MM  
 .JML. `'  .JMML. `Mbod"YML.M9mmmP'.JMML. YA.`Mbmmd'  `Mbmo  .JMML.`Ybmd9'   `Ybmd9'.JMML.
                                                                                                                                                                                      
-            ~Tools For Hacking by by-Alexandria
+            ~Tools For Hacking  by-Alexandria
 
 \033[91m"""
 def menu():
