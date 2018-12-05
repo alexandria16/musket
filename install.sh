@@ -53,7 +53,7 @@ echo "";
 git clone https://github.com/alexandria16/musket.git "$INSTALL_DIR";
 echo "#!/bin/bash
 python $INSTALL_DIR/musket.py" '${1+"$@"}' > musket;
-chmod +x musket;
+chmod +x musket.py;
 sudo cp musket /usr/bin/;
 rm musket;
 
